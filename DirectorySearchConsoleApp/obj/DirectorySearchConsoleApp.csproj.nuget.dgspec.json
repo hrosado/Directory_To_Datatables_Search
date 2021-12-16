@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CW2_Rosado\\OneDrive\\Documents\\2021_UMGC_\\Repos\\Directory_To_Datatables_Search\\DirectorySearchConsoleApp\\DirectorySearchConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CW2_Rosado\\OneDrive\\Documents\\2021_UMGC_\\Repos\\Directory_To_Datatables_Search\\DirectorySearchConsoleApp\\DirectorySearchConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CW2_Rosado\\OneDrive\\Documents\\2021_UMGC_\\Repos\\Directory_To_Datatables_Search\\DirectorySearchConsoleApp\\DirectorySearchConsoleApp.csproj",
+        "projectName": "DirectorySearchConsoleApp",
+        "projectPath": "C:\\Users\\CW2_Rosado\\OneDrive\\Documents\\2021_UMGC_\\Repos\\Directory_To_Datatables_Search\\DirectorySearchConsoleApp\\DirectorySearchConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\CW2_Rosado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CW2_Rosado\\OneDrive\\Documents\\2021_UMGC_\\Repos\\Directory_To_Datatables_Search\\DirectorySearchConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CW2_Rosado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
