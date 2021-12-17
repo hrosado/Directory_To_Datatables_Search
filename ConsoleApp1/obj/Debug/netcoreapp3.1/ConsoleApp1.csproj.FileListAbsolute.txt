@@ -1,0 +1,17 @@
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CW2_Rosado\OneDrive\Documents\2021_UMGC_\Repos\Directory_To_Datatables_Search\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
